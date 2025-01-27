@@ -16,6 +16,14 @@ ChatBot UI is a lightweight interface that utilizes **Ollama** to run a local AI
 2. **Install a Local Model**  
    Ensure you have at least one model installed locally that can run on your system using Ollama.  
    You can browse and manage models via the Ollama interface.
+3. **Make sure to change the credentials in the .env file**
+4. **Install NPM**
+   ```bash
+   sudo apt update && sudo apt install npm -y
+   npm install
+   npm run dev
+   ```
+
 
 ---
 
@@ -40,6 +48,7 @@ src/
 │   └── Chat.tsx   # Main chat component
 ├── assets/        # Optional: Add image assets here
 ...
+```
 
 🧰 Troubleshooting
 Ollama not detected?
