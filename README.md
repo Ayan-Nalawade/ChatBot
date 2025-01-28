@@ -73,4 +73,3 @@ Have an idea or found an issue? Feel free to open a pull request or an issue on 
 📜 License
 This project is licensed under the MIT License.
 
-This version is structured, concise, and uses proper headings, bullet points, and formatting to enhance readability for GitHub users. Let me know if you'd like further edits or additions!
